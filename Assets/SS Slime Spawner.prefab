@@ -44,5 +44,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0007abc65ff98b4e8077634f1d4b055, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slime: {fileID: 5432916055876397548, guid: dba0b65f19d3bbe4a92cc7e5b1ae6b73, type: 3}
+  slime: {fileID: 4344225497425930935, guid: 2062b79389b465c49bc05fb2e2966023, type: 3}
   spawnRange: 20
